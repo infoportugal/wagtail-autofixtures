@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: wagtail-autofixtures
+Version: 0.1.0
+Summary: Translates Wagtail CMS models using a registration approach.
+Home-page: https://github.com/infoportugal/wagtail-autofixtures
+Author: Eduardo Nogueira
+Author-email: ...
+License: New BSD
+Description: The wagtail-autofixtures application can be used to automatically generate pages with aleatory content.
+             This application its smart enough to choose between foreign keys and dynamic add inlines to the parent page.
+Platform: UNKNOWN
+Keywords: django wagtail auto-fixture generate

@@ -1,0 +1,5 @@
+include *.txt *.rst
+recursive-include docs *.rst conf.py Makefile make.bat
+recursive-include wagtail_autofixtures *
+global-exclude *.pyc
+global-exclude *.DS_Store
